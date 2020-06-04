@@ -3,7 +3,7 @@
 ## To install
 ```
 git clone https://github.com/Ben-893/If-Else-Elseif-Practice 
-
+```
 ## To Use
 ```
 Open the folder in your text editor
